@@ -1,0 +1,6 @@
+{
+  "name": "Engineering & Technology Intranet",
+  "description": "Enterprise department intranet portal featuring organizational hierarchy, team directories, employee resources, announcements, and CMS administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
